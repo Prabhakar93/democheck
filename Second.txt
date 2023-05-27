@@ -2,6 +2,12 @@ git repo launch
 
 
 
+<<<<<<< HEAD
 2nd line adding.change being done from local
 
 adding current change
+=======
+2nd line adding
+adding new features
+ 
+>>>>>>> 8ca1205c53d1763374257528f9e7efc85d4a393e
